@@ -1,4 +1,4 @@
-Wordpress-theme-All
+One is all 一个简单的WordPress主题
 ===================
 
-A simple theme，modified by panjunwen
+扒皮，原博客已关停。
